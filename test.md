@@ -3,14 +3,12 @@
 * item 1
 * item 2
 * item 3
-+ item +
-- item -
 
 1. 33wfedf
 2. sgdfsgd
 3. sdgd
 
-abc text
+text `abc`
 
 ## Heading 2
 ### Heading 3
@@ -18,3 +16,5 @@ abc text
 #sdgds
 
 test 235
+
+abc
