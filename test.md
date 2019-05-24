@@ -8,7 +8,7 @@
 2. sgdfsgd
 3. sdgd
 
-text `abc`
+`abc` text
 
 ## Heading 2
 ### Heading 3
